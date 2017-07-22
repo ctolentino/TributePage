@@ -14,6 +14,7 @@ Linking pages
 
 ## Resources
 History teacher/lessons
+Example: https://codepen.io/ctolentino/full/GEVazR/
 
 ## Stretch Goals
 Add more styling to the page (hover button feature, text over image)
