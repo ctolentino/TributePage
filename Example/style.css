@@ -1,0 +1,87 @@
+#interface{
+  text-align: center;
+  padding: 50px;
+  background-color: rgb(0, 71, 179);
+  color: white;
+  position: relative;
+}
+
+#title{
+  padding-bottom: 20px;
+  font-family: 'Homemade Apple', cursive;
+}
+
+#motto{
+  padding-bottom: 20px;
+  font-family: 'Cinzel', serif;
+}
+
+#imageSection{
+    position: relative;
+}
+
+img{
+  object-fit: cover;
+  border-radius: 50%;
+  border: 10px solid #000;
+  width: 400px;
+  height: 400px;
+}
+
+#imageCap{
+  font-size: 80%;
+  font-family: 'Cinzel', serif;
+  font-weight: bold;
+  color: black;
+  position: absolute;
+  left: 0;
+  width: 100%;
+}
+
+#timeline{
+  padding: 100px 0px 30px 0px;
+}
+
+#timelineHead{
+  font-family: 'Homemade Apple', cursive;
+}
+
+.bulletList{
+  list-style-type: circle;
+  display: inline-block;
+  text-align: left;
+  font-family: 'Cinzel', serif;
+}
+
+#link{
+  padding-bottom: 60px;
+}
+
+#learnMore{
+    font-family: 'Cinzel', serif;
+    background-color: white;
+    border: none;
+    color: rgb(0, 71, 179);
+    font-weight: bold;
+    padding: 5px 10px 0px 10px;
+    font-size: 23px;
+}
+
+#learnMore:hover {
+    background-color: lightBlue;
+    font-size: 25px;
+    color: rgb(0, 71, 179);
+
+}
+
+#footerSection{
+  text-align: center;
+  background-color: white;
+  max-height: 10px;
+}
+
+#footer{
+  font-family: 'Homemade Apple', cursive;
+  padding: 10px;
+  max-height: 10px;
+}
